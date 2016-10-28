@@ -25,6 +25,8 @@ In this page I want to explain basic but important materials for who wants to be
 [a. Introduction to Python and libraries](#centos)
 [b. Coding in Python](#manager)
 <br>
+<br>
+
 
 
 ## 1. Introduction
