@@ -9,21 +9,21 @@ In this page I want to explain basic but important materials for who wants to be
 ### 1. Introduction<br>
 [a. A Road Map for Reader and Structures](#structures) 
 ### 2. Data Mining<br>
-#### [a. Introduction to Analytics](#Introduction)  
-#### [b. Project Understanding](#Project)  
-#### [c. Data Understanding](#Data)
-#### [d. Data Preparation](#Preparation)  
-#### [e. Principles of Modeling](#Principles) 
-#### [f. Multiple Linear Regression](#Multiple)  
+[a. Introduction to Analytics](#Introduction)  
+[b. Project Understanding](#Project)  
+[c. Data Understanding](#Data)
+[d. Data Preparation](#Preparation)  
+[e. Principles of Modeling](#Principles) 
+[f. Multiple Linear Regression](#Multiple)  
 ### 3. Machine Learning<br>
-#### [a. Compare Cloudera and Hotronworks](#c_vs_h)  
-#### [b. Cloudera](#cloudera)  
+[a. Compare Cloudera and Hotronworks](#c_vs_h)  
+[b. Cloudera](#cloudera)  
 ### 4. R<br>
-#### [a. Introduction to R and R studio](#centos)
-#### [b. Coding in R](#manager)
+[a. Introduction to R and R studio](#centos)
+[b. Coding in R](#manager)
 ### 5. Python
-#### [a. Introduction to Python and libraries](#centos)
-#### [b. Coding in Python](#manager)
+[a. Introduction to Python and libraries](#centos)
+[b. Coding in Python](#manager)
 <br>
 
 
