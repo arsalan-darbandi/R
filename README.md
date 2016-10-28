@@ -7,7 +7,7 @@ In this page I want to explain basic but important materials for who wants to be
 ## Table of Contents
 
 ### 1. Introduction<br>
-##### [a. A Road Map for Reader and Structures](#structures) 
+[a. A Road Map for Reader and Structures](#structures) 
 ### 2. Data Mining<br>
 #### [a. Introduction to Analytics](#Introduction)  
 #### [b. Project Understanding](#Project)  
