@@ -21,10 +21,14 @@ In this page I want to explain basic but important materials for who wants to be
 4. R<br>
 [a. Introduction to R and R studio](#centos)
 [b. Coding in R](#manager)
-5. Python
-[a. Introduction to Python and libraries](#centos)
+
+##5. Python
+
+###[a. Introduction to Python and libraries](#centos)
 [b. Coding in Python](#manager)
 <br>
+
+
 ## 1. Introduction
 <a name="structures"/>
 ### a. A Road Map for Reader and Structures
