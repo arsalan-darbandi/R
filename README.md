@@ -48,6 +48,7 @@ References: I will add this part later.
 
 What is Analytics? 
 [Analytics is an encompassing and multidimensional field that uses mathematics, statistics, predictive modeling and machine-learning techniques to find meaningful patterns and knowledge in recorded data.](http://www.sas.com/en_us/insights/analytics/what-is-analytics.html)
+
 There are four types of big data BI that really aid business:
 Prescriptive – This type of analysis reveals what actions should be taken. This is the most valuable kind of analysis and usually results in rules and recommendations for next steps.
 Predictive – An analysis of likely scenarios of what might happen. The deliverables are usually a predictive forecast.
