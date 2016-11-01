@@ -2,7 +2,7 @@
 ![](https://github.com/asikhalaban/R/blob/master/img/blogs_kdnuggets.jpg)
 
 # How to Become a Data Scientist?
-In this page I want to explain basic but important materials for who wants to be a Data Scientist. All materials in this page is from experiences from several projects, I gained and from courses that I took. I hope that at least some codes and information give you some help. 
+In this page I want to explain basic but important materials for who wants to be a Data Scientist. All materials in this page is from experiences from several projects, I gained and from courses that I took. I hope that at least some codes and information give you some help. Most of explaintion I bring them directly here without any paraphrasing because this plase is kind of my note and I spend more time on codes and maths. 
 
 ## Table of Contents
 
@@ -40,9 +40,26 @@ First, Section 2 describes the most important part which is data mining. Lots of
 
 References: I will add this part later.
 
+<br><br>
+
 ## 2. Data Mining
 <a name="Introduction"/>
 ### a. Introduction to Analytics
+
+What is Analytics? [Analytics is an encompassing and multidimensional field that uses mathematics, statistics, predictive modeling and machine-learning techniques to find meaningful patterns and knowledge in recorded data.](http://www.sas.com/en_us/insights/analytics/what-is-analytics.html)
+
+There are four types of big data BI that really aid business:
+
+Prescriptive – This type of analysis reveals what actions should be taken. This is the most valuable kind of analysis and usually results in rules and recommendations for next steps.
+Predictive – An analysis of likely scenarios of what might happen. The deliverables are usually a predictive forecast.
+Diagnostic – A look at past performance to determine what happened and why. The result of the analysis is often an analytic dashboard.
+Descriptive – What is happening now based on incoming data. To mine the analytics, you typically use a real-time dashboard and/or email reports. Descriptive analytics as the least complex while fundamentally important because this analytics can answer simple questions about the past.
+
+Data Science and Analytics has an important duty in a company because it tries to solve the problems by given information. 
+First of all a data science must understand the problem then by using data mining tools which are collecting, cleaning and understanding(Visualling) Data. Next by using different machine learning algorithm develop and validate models. After that interpret the results and explain the problem and the results and implement them. 
+
+
+What is Big Data? 
 
 <a name="Project"/>
 ### b. Project Understanding
