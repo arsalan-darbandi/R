@@ -73,11 +73,11 @@ Cross Industry Standard Process for Data Mining, commonly known by its acronym C
 CRISP=DM is composed of six high-level phases:<br>
 - Project Understanding,
 - Data Preparation, 
+<img align="right" src="https://github.com/asikhalaban/R/blob/master/img/220px-CRISP-DM_Process_Diagram.png?raw=true"><br>
 - Modeling,
 - Evaluation,
 - Deployment<br>
 
-<img align="right" src="https://github.com/asikhalaban/R/blob/master/img/220px-CRISP-DM_Process_Diagram.png?raw=true"><br>
 This reflects the basic ordering of tasks is necessary in most analytics projects, however the process is not entirely linear. There are several places where iteration is necessary. You can find them in the above figure. 
 
 <a name="Project"/>
