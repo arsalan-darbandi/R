@@ -61,7 +61,6 @@ First of all a data science must understand the problem then by using data minin
 Next by using different machine learning algorithm develop and validate models.<br>
 After that interpret the results and explain the problem and the results and implement them. 
 
-
 What is Big Data? <br>
 
 Each data has three properties Volume, Velocity and Variety. In my opinon it is not easy to say which data is considered as big data just we can compare data and see which data has large size of volume with high velocity and variety then it can be considered as big data. In general, Velocity of Big Data is real time, or near real time, Data Volume is more than GB and for Variety of Data, data from social network, videos, unstructured data, mobile data and etc.
@@ -73,6 +72,7 @@ Cross Industry Standard Process for Data Mining, commonly known by its acronym C
 <img align="right" src="https://github.com/asikhalaban/R/blob/master/img/220px-CRISP-DM_Process_Diagram.png?raw=true"><br>
 CRISP=DM is composed of six high-level phases:<br>
 - Project Understanding,
+- Data Understanding,
 - Data Preparation, 
 - Modeling,
 - Evaluation,
@@ -80,8 +80,36 @@ CRISP=DM is composed of six high-level phases:<br>
 
 This reflects the basic ordering of tasks is necessary in most analytics projects, however the process is not entirely linear. There are several places where iteration is necessary. You can find them in the above figure. 
 
+- Project Understanding:<br>
+The first phase is up to the data scientist and project owner to determine what exactly is the problem. The problem, assumptions, expectations, and goals shoud be listed as clearly as possible. oftentimes the data scientists will not be an expert in the specific field and will be working with subject matter experts, also known as SME's. It is data scientists job to learn their problem and their language and to help them meet their goals. 
+
+- Data Understanding: <br>
+The goal is to explore the data and to determine what is available and what gaps exist. That is data scentists need to determine the data relevancy, validity and sufficiency. 
+
+- Data Preparation: <br>
+This part is where you spend 90% of the work in and the task will likely be preformed many times. These tasks include collection, assessment, consolidation, cleaning, selection, and transformation. The objective is to take the initial raw data and convert it into a data set that can be used with our modeling tools . 
+
+- Modeling Phase: <br>
+The data set which is came out from data preparation is implented in several models. Various approaches may benefit from different types of data preparation, so this phase is highly linked to the data preparation phase and there is lots of iteration between the two.
+
+- Evaluation: <br>
+The last model is evaluated over this phase. The final result must be evaluated to ensure it achieves the original project objectives. If there is some important issue that has not been sufficiently considered, the whole process returns back to phase one to flesh out those details. 
+
+- Deployment: <br>
+Deployment is where that the model and all processes which are choosen, implement for data. 
+
+
+<br><br>
+
 <a name="Project"/>
 ### b. Project Understanding
+
+Project and Data Understanding are critical steps. You have to spend 20% time of a project for these to steps till get success for other 80%. 
+There are four tasks in data understanding: 
+- Detrmine business objectives, in my opinion this part is one of the important parts because you have to understand what is the problem from a business perspective then identify critical factors which influence outcome of the project, competing objejctives and constraints. Sometimes, you are looking for right answer for wrong question. So this part is very important to understand what is the problem. The goal for determine business objectives is a background description, you would want to understand and describe the organisation situation, understand primary objectives, you need to be able to describe criteria to sucess the project. This part could be sound easy but it is not that much easy that you think. In some of my project I stop at the middle of my project because the problem wasn't that much clear for me or owner of business. So it is very imporant to make it clear that "What exactly is the problem?".
+- Assess situation, 
+- Determine data mining goals,
+- produce a project plan, 
 
 <a name="Data"/>
 ### c. Data Understanding
