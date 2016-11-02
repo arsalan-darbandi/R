@@ -106,10 +106,10 @@ Deployment is where that the model and all processes which are choosen, implemen
 
 Project and Data Understanding are critical steps. You have to spend 20% time of a project for these to steps till get success for other 80%. 
 There are four tasks in data understanding: 
-- Detrmine business objectives, in my opinion this part is one of the important parts because you have to understand what is the problem from a business perspective then identify critical factors which influence outcome of the project, competing objejctives and constraints. Sometimes, you are looking for right answer for wrong question. So this part is very important to understand what is the problem. The goal for determine business objectives is a background description, you would want to understand and describe the organisation situation, understand primary objectives, you need to be able to describe criteria to sucess the project. This part could be sound easy but it is not that much easy that you think. In some of my project I stop at the middle of my project because the problem wasn't that much clear for me or owner of business. So it is very imporant to make it clear that "What exactly is the problem?".
-- Assess situation, 
-- Determine data mining goals,
-- produce a project plan, 
+- Detrmine business objectives, in my opinion this part is one of the important parts because you have to understand what is the problem from a business perspective then identify critical factors which influence outcome of the project, competing objejctives and constraints. Sometimes, you are looking for right answer for wrong question. So this part is very important to understand what is the problem. The goal for determine business objectives is a background description, you would want to understand and describe the organisation situation, understand primary objectives, you need to be able to describe criteria to sucess the project. This part could be sound easy but it is not that much easy that you think. In some of my project I stop at the middle of my project or I saw that my solution is not useful because the problem not only wasn't that much clear for me but also the owner of business doesn't know about the problem. So it is very imporant to make it clear that "What exactly is the problem?". 
+- Assess situation, Detained fact-finding, that is digging into the details from factors which are found from previous task. Outputs are inventory of resources, for business intelligent it is important to consider costs and benefits. 
+- Determine data mining goals, You have to know what data mining tasks and outputs you are looking for. Problem is figured out but it needs to match wih data analysis task otherwise you cannot find related solution. 
+- produce a project plan, in this part plan must be described and documneted. 
 
 <a name="Data"/>
 ### c. Data Understanding
