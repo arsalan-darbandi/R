@@ -53,11 +53,32 @@ Prescriptive – This type of analysis reveals what actions should be taken. Thi
 Predictive – An analysis of likely scenarios of what might happen. The deliverables are usually a predictive forecast.
 Diagnostic – A look at past performance to determine what happened and why. The result of the analysis is often an analytic dashboard.<br>
 Descriptive – What is happening now based on incoming data. To mine the analytics, you typically use a real-time dashboard and/or email reports. Descriptive analytics as the least complex while fundamentally important because this analytics can answer simple questions about the past.<br>
+
+What is Data Analytics outline?<br>
+
 Data Science and Analytics has an important duty in a company because it tries to solve the problems by given information. 
-First of all a data science must understand the problem then by using data mining tools which are collecting, cleaning and understanding(Visualling) Data. Next by using different machine learning algorithm develop and validate models. After that interpret the results and explain the problem and the results and implement them. 
+First of all a data science must understand the problem then by using data mining tools which are collecting, cleaning and understanding(Visualling) Data. <br>
+Next by using different machine learning algorithm develop and validate models.<br>
+After that interpret the results and explain the problem and the results and implement them. 
 
 
-What is Big Data? 
+What is Big Data? <br>
+
+Each data has three properties Volume, Velocity and Variety. In my opinon it is not easy to say which data is considered as big data just we can compare data and see which data has large size of volume with high velocity and variety then it can be considered as big data. In general, Velocity of Big Data is real time, or near real time, Data Volume is more than GB and for Variety of Data, data from social network, videos, unstructured data, mobile data and etc.
+
+What is CRISP-DM? <br>
+
+Cross Industry Standard Process for Data Mining, commonly known by its acronym CRISP-DM, was a data mining process model that describes commonly used approaches that data mining experts use to tackle problems.
+
+CRISP=DM is composed of six high-level phases:<br>
+- Project Understanding,
+- Data Preparation, 
+- Modeling,
+- Evaluation,
+- Deployment
+
+This reflects the basic ordering of tasks is necessary in most analytics projects, however the process is not entirely linear. There are several places where iteration is necessary. You can find them in the below figure. 
+![](https://github.com/asikhalaban/R/blob/master/img/220px-CRISP-DM_Process_Diagram.png?raw=true)
 
 <a name="Project"/>
 ### b. Project Understanding
