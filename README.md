@@ -70,10 +70,10 @@ What is CRISP-DM? <br>
 
 Cross Industry Standard Process for Data Mining, commonly known by its acronym CRISP-DM, was a data mining process model that describes commonly used approaches that data mining experts use to tackle problems.
 
+<img align="right" src="https://github.com/asikhalaban/R/blob/master/img/220px-CRISP-DM_Process_Diagram.png?raw=true"><br>
 CRISP=DM is composed of six high-level phases:<br>
 - Project Understanding,
 - Data Preparation, 
-<img align="right" src="https://github.com/asikhalaban/R/blob/master/img/220px-CRISP-DM_Process_Diagram.png?raw=true"><br>
 - Modeling,
 - Evaluation,
 - Deployment<br>
