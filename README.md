@@ -75,10 +75,10 @@ CRISP=DM is composed of six high-level phases:<br>
 - Data Preparation, 
 - Modeling,
 - Evaluation,
-- Deployment
+- Deployment<br>
 
-This reflects the basic ordering of tasks is necessary in most analytics projects, however the process is not entirely linear. There are several places where iteration is necessary. You can find them in the below figure. 
 ![](https://github.com/asikhalaban/R/blob/master/img/220px-CRISP-DM_Process_Diagram.png?raw=true)
+This reflects the basic ordering of tasks is necessary in most analytics projects, however the process is not entirely linear. There are several places where iteration is necessary. You can find them in the above figure. 
 
 <a name="Project"/>
 ### b. Project Understanding
