@@ -2,7 +2,7 @@
 ![](https://github.com/asikhalaban/R/blob/master/img/blogs_kdnuggets.jpg)
 
 # How to Become a Data Scientist?
-In this page I want to explain basic but important materials for who wants to be a Data Scientist. All materials in this page is from experiences from several projects, I gained and from courses that I took. I hope that at least some codes and information give you some help. Most of explanation I bring them directly here without any paraphrasing because this place is kind of my note and I spend more time on codes and maths. 
+In this page I want to explain basic but important materials for those who want to be a Data Scientist. All materials in this page is from experiences from several projects, I gained and from courses that I took. I hope that at least some codes and information give you some help. Most of explanation I bring them directly here without any paraphrasing because this place is kind of my note and I spend more time on codes and maths. 
 
 ## Table of Contents
 
