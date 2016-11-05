@@ -54,6 +54,7 @@ This is very important that how do we explore? There are three different basic i
 - Univariate analyses: Descriptive statistics, Frequency tables, Histograms and Densities, Box plots
 - Bivariate analyses: Correlations and Heatmaps, Scatterplots, Trends, Cross tabulaitons
 - Multivariate analyses: Parallel plots, Mosaic plots, Regression, PCA, MDS, Variable clistering
+
 [Read More about these methods for exploring](https://github.com/asikhalaban/R/blob/master/Data-Exploring.md)
 
 <br><br>
