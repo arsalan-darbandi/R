@@ -109,9 +109,17 @@ There are four tasks in data understanding:
 - Determine data mining goals, You have to know what data mining tasks and outputs you are looking for. Problem is figured out but it needs to match with data analysis task otherwise you cannot find related solution. 
 - produce a project plan, in this part plan must be described and documented. 
 
+
+<br><br>
+
+
 <a name="Data"/>
 ### c. Data Understanding
 
+In previous section we understand what is the problem and what kind of data and result we are looking for. In this section we should check that is the data relevant to the problem? Is it vakud and reflect our expectations and is the data quality, quantity, and recency sufficient to continue the project? 
+One fundamental technique in this phase is data visualization. In particular, a few things to look out for are outliers, highly skewed distributions, correlations amoung variables, and explicable values and errors and missing values but there are just some examples and depends on type of problems and data we maybe should use other methods.  
+
+[Read more]()
 <a name="Preparation"/>
 ### d. Data Preparation
 
