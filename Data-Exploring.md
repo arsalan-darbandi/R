@@ -11,7 +11,7 @@ This is very important that how do we explore? There are three different basic i
 ## Descriptive Statistics:
 
 R provides a wide range of functions for obtaining summary statistics which you can find it [here](http://www.statmethods.net/stats/descriptives.html). 
-
+In the commands below you can find one of the methods for decriptive statistics.
 ```
 library(plyr) # To call package that has baseball dataset
 ?baseball # Reading more about baseball data
@@ -19,6 +19,7 @@ data("baseball") # Calling baseball dataset
 summary(baseball) # Calling descriptive statistics function. 
 
 ## Result
+
       id                 year          stint           team                lg           
  Length:21699       Min.   :1871   Min.   :1.000   Length:21699       Length:21699      
  Class :character   1st Qu.:1937   1st Qu.:1.000   Class :character   Class :character  
@@ -60,3 +61,10 @@ summary(baseball) # Calling descriptive statistics function.
  Max.   :19.000   Max.   :36.000  
  NA's   :7390     NA's   :5272    
 ```
+
+## Frequency tables
+
+?????
+
+## Histograms and Densities
+
