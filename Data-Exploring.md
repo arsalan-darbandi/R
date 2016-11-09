@@ -7,6 +7,8 @@ This is very important that how do we explore? There are three different basic i
 - Bivariate analyses: Correlations and Heatmaps, Scatterplots, Trends, Cross tabulaitons
 - Multivariate analyses: Parallel plots, Mosaic plots, Regression, PCA, MDS, Variable clistering
 
+[Here](https://github.com/asikhalaban/R/blob/master/qplot.pdf) you can find a documnet about qplot which is a very powerfull library for plotting.
+
 
 ## Descriptive Statistics:
 
@@ -122,3 +124,14 @@ One of the best plots in R and statistic is Box Plot. Box plot shows maximum, th
 
 
 ```
+library("plyr")
+data("mtcars")
+# plot a box plots for hp attribute
+boxplot(mtcars$hp, ylab = "Range of hp", main="boxplot for hp"
+```
+<img width=200px; src="https://github.com/asikhalaban/R/blob/master/img/Screen%20Shot%202016-11-09%20at%202.42.08%20PM.png">
+
+
+## Correlation and Heat map
+
+
