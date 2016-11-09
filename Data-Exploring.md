@@ -79,7 +79,7 @@ Frequency table can be useful when in a data, some records because of high frequ
 
 ## Histograms and Densities
 
-Instead of Frequency tables you can have same result in Histograms. Also it has option plots probability of densities instead frequencies by just adding freq = FALSE. 
+Instead of Frequency tables you can have same result in Histograms. Also it has option plots probability of densities instead frequencies by just adding freq = FALSE. Histograms and Densities show the distribuation and highly skewed distributions which in other section you will learn more about them. 
 ```
 # Add a Normal Curve
 df <- mtcars$mpg 
