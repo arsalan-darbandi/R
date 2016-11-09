@@ -89,7 +89,7 @@ yfit<-dnorm(xfit,mean=mean(df),sd=sd(df))
 yfit <- yfit*diff(h$mids[1:2])*length(df) 
 lines(xfit, yfit, col="blue", lwd=2)
 ```
-<img width=200px; src="https://github.com/asikhalaban/R/blob/master/Screen%20Shot%202016-11-09%20at%201.46.31%20PM.png"><br>
+<img width=200px; src="https://github.com/asikhalaban/R/blob/master/img/Screen%20Shot%202016-11-09%20at%201.46.31%20PM.png"><br>
 
 or this method you can compare different density [(Source)](http://www.statmethods.net/graphs/density.html).
 ```
@@ -110,4 +110,15 @@ title(main="MPG Distribution by Car Cylinders")
 colfill<-c(2:(2+length(levels(cyl.f)))) 
 legend(locator(1), levels(cyl.f), fill=colfill)
 ```
-<img width=200px; src="https://github.com/asikhalaban/R/blob/master/img/Screen%20Shot%202016-11-09%20at%201.56.35%20PM.png"><br>
+<img width=200px; src="https://github.com/asikhalaban/R/blob/master/img/Screen%20Shot%202016-11-09%20at%201.56.35%20PM.png">
+
+
+## Box plots
+
+One of the best plots in R and statistic is Box Plot. Box plot shows maximum, third quartile, first quartile, minimum, and outliers. The images below give better information. 
+
+<img width=200px; src="https://github.com/asikhalaban/R/blob/master/img/Screen%20Shot%202016-11-09%20at%202.24.14%20PM.png">
+<img width=200px; src="https://github.com/asikhalaban/R/blob/master/img/Screen%20Shot%202016-11-09%20at%202.24.20%20PM.png">
+
+
+```
