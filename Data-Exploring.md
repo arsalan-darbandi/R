@@ -7,7 +7,7 @@ This is very important that how do we explore? There are three different basic i
 - Bivariate analyses: Correlations and Heatmaps, Scatterplots, Trends, Cross tabulaitons
 - Multivariate analyses: Parallel plots, Mosaic plots, Regression, PCA, MDS, Variable clistering
 
-[Here](https://github.com/asikhalaban/R/blob/master/qplot.pdf) you can find a documnet about qplot which is a very powerfull library for plotting.
+[Here](https://github.com/asikhalaban/R/blob/master/qplot.pdf) you can find a documnet about qplot. Qplot is a very powerfull library for plotting.
 
 
 ## Descriptive Statistics:
