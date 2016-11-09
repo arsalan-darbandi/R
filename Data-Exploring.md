@@ -91,3 +91,23 @@ lines(xfit, yfit, col="blue", lwd=2)
 ```
 <img width=200px; src="https://github.com/asikhalaban/R/blob/master/Screen%20Shot%202016-11-09%20at%201.46.31%20PM.png"><br>
 
+or this method you can compare different density [(Source)](http://www.statmethods.net/graphs/density.html).
+```
+# Compare MPG distributions for cars with 
+# 4,6, or 8 cylinders
+library(sm)
+attach(mtcars)
+
+# create value labels 
+cyl.f <- factor(cyl, levels= c(4,6,8),
+  labels = c("4 cylinder", "6 cylinder", "8 cylinder")) 
+
+# plot densities 
+sm.density.compare(mpg, cyl, xlab="Miles Per Gallon")
+title(main="MPG Distribution by Car Cylinders")
+
+# add legend via mouse click
+colfill<-c(2:(2+length(levels(cyl.f)))) 
+legend(locator(1), levels(cyl.f), fill=colfill)
+```
+<img width=200px; src="https://github.com/asikhalaban/R/blob/master/img/Screen%20Shot%202016-11-09%20at%201.56.35%20PM.png"><br>
