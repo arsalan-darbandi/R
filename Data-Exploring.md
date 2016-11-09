@@ -64,7 +64,29 @@ summary(baseball) # Calling descriptive statistics function.
 
 ## Frequency tables
 
-?????
+Frequency table shows the number of frequency of each record in a data. 
+For instance, if you are looking to mrcars dataset. frequency of gear when equals 3 is 15. 
+```
+library('plyr')
+count(mtcars, 'gear')
+       gear      freq
+1      3         15
+2      4         12
+3      5         5
+```
+Frequency table can be useful when in a data, some records because of high frequency have high effect on result of analysis and same for low frequency. Therefore, by using Frequency tables, you can detect and remove those recordes.
+
 
 ## Histograms and Densities
 
+Instead of Frequency tables you can have same result in Histograms. Also it has option plots probability of densities instead frequencies by just adding freq = FALSE. 
+```
+# Add a Normal Curve
+df <- mtcars$mpg 
+h <- hist(df, breaks=20, col="yellow", xlab="Miles Per Gallon", main="Histogram with Normal Curve") 
+xfit<-seq(min(df),max(df),length=40) 
+yfit<-dnorm(xfit,mean=mean(df),sd=sd(df)) 
+yfit <- yfit*diff(h$mids[1:2])*length(df) 
+lines(xfit, yfit, col="blue", lwd=2)
+```
+[](https://github.com/asikhalaban/R/blob/master/Screen%20Shot%202016-11-09%20at%201.46.31%20PM.png)!
