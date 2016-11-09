@@ -89,5 +89,5 @@ yfit<-dnorm(xfit,mean=mean(df),sd=sd(df))
 yfit <- yfit*diff(h$mids[1:2])*length(df) 
 lines(xfit, yfit, col="blue", lwd=2)
 ```
-<img width=100px; src="https://github.com/asikhalaban/R/blob/master/Screen%20Shot%202016-11-09%20at%201.46.31%20PM.png"><br>
+<img width=200px; src="https://github.com/asikhalaban/R/blob/master/Screen%20Shot%202016-11-09%20at%201.46.31%20PM.png"><br>
 
