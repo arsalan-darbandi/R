@@ -7,7 +7,7 @@ This is very important that how do we explore? There are three different basic i
 - Bivariate analyses: Correlations and Heatmaps, Scatterplots, Trends, Cross tabulaitons
 - Multivariate analyses: Parallel plots, Mosaic plots, Regression, PCA, MDS, Variable clistering
 
-[Here](https://github.com/asikhalaban/R/blob/master/qplot.pdf) you can find a documnet about qplot. Qplot is a very powerfull library for plotting.
+In this section, Univariate analyses will be discussed and [here](https://github.com/asikhalaban/R/blob/master/Data-Understanding.md#Correlation) you can find discussion on Bivariate analyses and Multivariate. 
 
 
 ## Descriptive Statistics:
@@ -132,6 +132,5 @@ boxplot(mtcars$hp, ylab = "Range of hp", main="boxplot for hp"
 <img width=200px; src="https://github.com/asikhalaban/R/blob/master/img/Screen%20Shot%202016-11-09%20at%202.42.08%20PM.png">
 
 
-## Correlation and Heat map
-
+[Here](https://github.com/asikhalaban/R/blob/master/qplot.pdf) you can find a documnet about qplot. Qplot is a very powerfull library for plotting.
 
