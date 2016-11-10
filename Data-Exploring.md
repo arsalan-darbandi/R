@@ -7,7 +7,7 @@ This is very important that how do we explore? There are three different basic i
 - Bivariate analyses: Correlations and Heatmaps, Scatterplots, Trends, Cross tabulaitons
 - Multivariate analyses: Parallel plots, Mosaic plots, Regression, PCA, MDS, Variable clistering
 
-In this section, Univariate analyses will be discussed and [here](https://github.com/asikhalaban/R/blob/master/Data-Understanding.md#Correlation) you can find discussion on Bivariate analyses and Multivariate. 
+In this section, Univariate analyses will be discussed and [in c. Data Understanding](https://github.com/asikhalaban/R/blob/master/Data-Understanding.md#Correlation) you can find discussion on Bivariate analyses and Multivariate. 
 
 
 ## Descriptive Statistics:
