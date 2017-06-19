@@ -14,12 +14,12 @@ Normally, number of attributes is less than number of records. However, sometime
 
 ## Outline
 
-###[I) Data Quality](#Quality)
-###[II) Data Visualization](#Visualization)
-###[III) Correlations](#Correlation)
-###[IV) Outliers](#Outlier)
-###[V) Missing Values](#Missing)
-###[VI) Dimension Reduction and Principal Component Analysis](#PCA)
+### [I) Data Quality](#Quality)
+### [II) Data Visualization](#Visualization)
+### [III) Correlations](#Correlation)
+### [IV) Outliers](#Outlier)
+### [V) Missing Values](#Missing)
+### [VI) Dimension Reduction and Principal Component Analysis](#PCA)
 
 <br><br><br><br>
 
