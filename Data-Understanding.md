@@ -24,7 +24,7 @@ Normally, number of attributes is less than number of records. However, sometime
 <br><br><br><br>
 
 <a name="Quality"/>
-## I) Data Quality
+##  I) Data Quality
 
 Low data quality makes it impossible to trust analysis results. 
 Data quality has three dimensions, Accuracy, Completeness, and Timeliness. 
@@ -43,7 +43,7 @@ Is the available data up to date?(Recency) Does the data reflect the current nat
 <br><br>
 
 <a name="Visualization"/>
-## II) Data Visualization
+##II) Data Visualization
 
 There are two primary motivations for visualization, Exploring and Explaining.  
 When You are exploring, not exactly sure what the data has so by doing visualization you can get a sense of the relationships but when you are explaining, you understand what the data is telling you. 
