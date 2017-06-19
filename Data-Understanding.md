@@ -14,7 +14,7 @@ Normally, number of attributes is less than number of records. However, sometime
 
 ## Outline
 
-[I) Data Quality] (#Quality)
+[I) Data Quality](#Quality)
 ###  [II) Data Visualization] (#Visualization)
 ### [III) Correlations] (#Correlation)
 ###  [IV) Outliers] (#Outlier)
