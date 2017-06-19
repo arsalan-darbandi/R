@@ -43,7 +43,7 @@ Is the available data up to date?(Recency) Does the data reflect the current nat
 <br><br>
 
 <a name="Visualization"/>
-## Data Visualization
+## II) Data Visualization
 
 There are two primary motivations for visualization, Exploring and Explaining.  
 When You are exploring, not exactly sure what the data has so by doing visualization you can get a sense of the relationships but when you are explaining, you understand what the data is telling you. 
